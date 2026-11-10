@@ -1,6 +1,38 @@
 ## Hi 👋,I'M Swamy V C
 A passionate developer from India 
 
+
+# Hi, I'm Swamy V C 👋
+
+**Information Science and Engineering Student | Software Development | Python | Java | AI/ML**
+
+I am an Information Science and Engineering student interested in software development, problem-solving, and emerging technologies. I enjoy learning new technologies and building practical projects.
+
+## 👨‍💻 About Me
+- 🎓 B.E. Information Science and Engineering student
+- 💻 Interested in software development and application development
+- 🐍 Learning and working with Python and Java
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Improving my problem-solving and programming skills
+
+## 🛠️ Technical Skills
+- **Programming:** Python, Java, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Core Subjects:** Data Structures, DBMS, Operating Systems, Computer Networks
+
+## 🚀 My Projects
+- Credit Scoring Model
+- Emotion Recognition from Speech
+- Handwritten Character Recognition
+- Krishi – Smart Agriculture Project
+
+## 📫 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/swamy-v-c-7a54972b5
+- **GitHub:** https://github.com/SwamyVC
+- **Email:** swamyvc00@gmail.com
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._swamy_v_c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swamy-v-c-7a54972b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swamyvc00@gmail.com) 
 
