@@ -1,7 +1,3 @@
-## Hi 👋,I'M Swamy V C
-A passionate developer from India 
-
-
 # Hi, I'm Swamy V C 👋
 
 **Information Science and Engineering Student | Software Development | Python | Java | AI/ML**
